@@ -10,7 +10,7 @@ A simple express server with get and get with /:id REST endpoints
 for development
 
 ```
-npm install dotenv nodemon
+npm install dotenv nodemon --save-dev
 ```
 
 declare your atlas uri in .env as
